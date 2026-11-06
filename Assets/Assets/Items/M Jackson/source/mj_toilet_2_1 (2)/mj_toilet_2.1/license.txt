@@ -1,0 +1,11 @@
+Model Information:
+* title:	MJ toilet 2.1
+* source:	https://sketchfab.com/3d-models/mj-toilet-21-7a7ce20381d64acc80f90f2402f02efe
+* author:	That one larry (https://sketchfab.com/Professor_E12)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MJ toilet 2.1" (https://sketchfab.com/3d-models/mj-toilet-21-7a7ce20381d64acc80f90f2402f02efe) by That one larry (https://sketchfab.com/Professor_E12) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

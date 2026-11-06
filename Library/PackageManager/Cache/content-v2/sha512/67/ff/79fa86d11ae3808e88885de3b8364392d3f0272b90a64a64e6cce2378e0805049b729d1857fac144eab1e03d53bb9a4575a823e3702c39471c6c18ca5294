@@ -1,0 +1,1 @@
+{"status":"Valid","reason":"Signature is ok","isLegacy":false,"attestation":{"version":1,"format":"archive","integrity":"sha256-NaQzSABV+lymd4vKqVAy/trLLf1S00LleIoJi7/YCN8=","packageName":"com.unity.cloud.gltfast","packageVersion":"6.18.0","publishingChannel":"unity","entitlementKeys":[],"artifactType":"upmPackage"}}

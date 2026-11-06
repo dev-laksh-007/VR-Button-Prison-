@@ -1,0 +1,1 @@
+{"status":"Valid","reason":"Signature is ok","isLegacy":false,"attestation":{"version":1,"format":"archive","integrity":"sha256-UsSd8yVMFh2L9kE2wlQdqdjHy/q+ubC9oWUknfOqVeI=","packageName":"com.unity.xr.compositionlayers","packageVersion":"2.5.0","publishingChannel":"unity","entitlementKeys":[],"artifactType":"upmPackage"}}

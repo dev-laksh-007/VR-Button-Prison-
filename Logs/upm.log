@@ -1,0 +1,51 @@
+[2026-11-06T11:15:38.481Z][INFO] Command-line: 'D:\\folder 2\\unity\\6000.6.0f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 20928 --ipc-path Unity-Upm-20928 -l 2 --log-file 'D:\\VR Project\\Button Prison VR/Logs/upm.log'
+[2026-11-06T11:15:38.517Z][INFO] IPC server started (IPC path=Unity-Upm-20928).
+[2026-11-06T11:15:38.518Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-20928.
+[2026-11-06T11:16:37.868Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-06T11:16:38.334Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-06T11:16:38.396Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-06T11:16:38.461Z][INFO] project:update-dependencies <-- Request received
+params: {}
+[2026-11-06T11:16:38.637Z][INFO] project:update-dependencies --> 200 (177 ms)
+[2026-11-06T11:16:38.667Z][INFO] project:resolve-packages <-- Request received
+params: {}
+[2026-11-06T11:16:39.593Z][INFO] config:project:get-registries --> 200 (1260 ms)
+[2026-11-06T11:16:39.632Z][INFO] Downloading package [com.unity.package-manager.metadata-6000.6@0.0.101] from registry 'https://packages.unity.com'
+[2026-11-06T11:16:41.318Z][INFO] Finished downloading package [com.unity.package-manager.metadata-6000.6@0.0.101] from registry 'https://packages.unity.com' (size: 11.5 kB, time: 1.6s)
+[2026-11-06T11:16:49.475Z][WARN] Package [com.unity.collab-proxy] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-06T11:16:49.618Z][WARN] Package [com.unity.collab-proxy] has a non-valid signature — status: Unsigned, reason: No attestation file found, errorCode: ERR_ATTESTATION_NOT_FOUND
+[2026-11-06T11:16:53.444Z][INFO] project:list-packages --> 200 (15575 ms)
+[2026-11-06T11:16:54.617Z][INFO] project:list-packages --> 200 (16221 ms)
+[2026-11-06T11:18:22.530Z][WARN] Requested version [2.1.2] for package [com.unity.xr.legacyinputhelpers] overridden by minimum version [3.0.1].
+[2026-11-06T11:18:22.530Z][WARN] Requested version [2.3.0] for package [com.unity.xr.compositionlayers] overridden by minimum version [2.5.0].
+[2026-11-06T11:18:22.531Z][WARN] Requested version [1.0.3] for package [com.unity.settings-manager] overridden by minimum version [2.1.1].
+[2026-11-06T11:18:22.531Z][WARN] Requested version [4.9.3] for package [com.unity.searcher] overridden by minimum version [4.9.5].
+[2026-11-06T11:18:22.535Z][INFO] project:resolve-packages --> 200 (103868 ms)
+[2026-11-06T11:21:41.931Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-06T11:21:42.048Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-06T11:21:42.246Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-06T11:21:43.060Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-06T11:21:44.469Z][INFO] project:list-packages --> 200 (2538 ms)
+[2026-11-06T11:21:44.667Z][INFO] project:list-packages --> 200 (2619 ms)
+[2026-11-06T11:21:45.136Z][INFO] project:list-packages --> 200 (2890 ms)
+[2026-11-06T11:21:45.945Z][INFO] project:list-packages --> 200 (2885 ms)
+[2026-11-06T11:21:52.452Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-06T11:21:52.463Z][INFO] config:project:get-registries --> 200 (10 ms)
+[2026-11-06T11:21:55.318Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-06T11:21:55.331Z][INFO] packages:get-all-packageinfo <-- Request received
+params: {}
+[2026-11-06T11:21:55.348Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-06T11:21:56.322Z][INFO] packages:get-all-packageinfo --> 200 (990 ms)
+[2026-11-06T11:21:56.667Z][INFO] project:list-packages --> 200 (1319 ms)
+[2026-11-06T11:22:01.298Z][INFO] project:list-packages --> 200 (5980 ms)
+[2026-11-06T11:22:25.038Z][INFO] Shutting down UnityPackageManager.exe: parent process [15284] is no longer running.
